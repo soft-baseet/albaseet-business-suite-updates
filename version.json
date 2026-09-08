@@ -1,0 +1,8 @@
+﻿{
+    "version":  "25.0.2",
+    "sha256":  "9FE352D936179C2BFCB057C240754B1804FC869598E7EA552DF163EA89DD499E",
+    "notes":  "First update package",
+    "mandatory":  false,
+    "packageUrl":  "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.2/ALBASEET_Update_25.0.2.zip",
+    "dataVersion":  25
+}
