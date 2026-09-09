@@ -1,8 +1,8 @@
 {
     "version":  "25.0.3",
-    "sha256":  "21D1B2F2FBBE032F15D0D8E47D5942F544BD9D8A290D664282FD48BCA3CEA41D",
-    "notes":  "اختبار التحديث ",
-    "mandatory":  true,
+    "sha256":  "C6EDD8F64F5F426B77E882F79F28CDD9D3CA69A2A18E8A33844A2531BC8ECA0C",
+    "notes":  "اصلاح التحديث",
+    "mandatory":  false,
     "packageUrl":  "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.3/ALBASEET_Update_25.0.3.zip",
     "dataVersion":  25
 }
