@@ -1,8 +1,8 @@
 {
-    "version":  "25.0.7",
-    "packageUrl":  "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.7/ALBASEET_Update_25.0.7.zip",
-    "sha256":  "E998D6D904108F2BC66E22C6D990CD1B371FBAEFFD94CF5AA004A773B9DA634D",
+    "version":  "25.0.8",
+    "packageUrl":  "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.8/ALBASEET_Update_25.0.8.zip",
+    "sha256":  "C69342F67C1AFC593C65690DEDC5B0D4CF2307DC2BCAB2EAF3D385FAFFA3C132",
     "mandatory":  false,
-    "dataVersion":  27,
-    "notes":  "Amazon per-order profitability, financial reconciliation, reports and Mobile Alpha 7."
+    "dataVersion":  28,
+    "notes":  "Corrected Amazon per-order profit and full-screen reports, with Noon and Mobile Alpha 7."
 }
