@@ -1,8 +1,8 @@
 {
-    "version":  "25.0.4",
-    "packageUrl":  "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.4/ALBASEET_Update_25.0.4.zip",
-    "sha256":  "05DBED9A19FB70F3D797439E9DF95D0E65F1039E46706E59B3AB2BB23C6D9335",
+    "version":  "25.0.7",
+    "packageUrl":  "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.7/ALBASEET_Update_25.0.7.zip",
+    "sha256":  "E998D6D904108F2BC66E22C6D990CD1B371FBAEFFD94CF5AA004A773B9DA634D",
     "mandatory":  false,
-    "dataVersion":  26,
-    "notes":  "Windows test build: Mobile Alpha 7 and PostgreSQL payroll saving fix."
+    "dataVersion":  27,
+    "notes":  "Amazon per-order profitability, financial reconciliation, reports and Mobile Alpha 7."
 }
