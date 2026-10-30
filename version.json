@@ -1,8 +1,8 @@
 {
-  "version": "25.0.9",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.9/ALBASEET_Update_25.0.9.zip",
-  "sha256": "BD3B81195651DC3E937026AF57B6AD7F6B0F658EF6FF3218BE7B22BA43A1DBB9",
+  "version": "25.0.10",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.10/ALBASEET_Update_25.0.10.zip",
+  "sha256": "BC5C1F78BE6FD68BEE7BE0672D4B8DEFC871EA79D536F8B1F2DEEB91C9E819D6",
   "mandatory": false,
   "dataVersion": 29,
-  "notes": "Month input, stable marketplace imports, late movements, order profit and VAT evaluation, differences, statuses, and Excel transfers."
+  "notes": "Clear report buttons, review order classification in differences, fee-only evaluation orders, and full marketplace/accounting item names."
 }
