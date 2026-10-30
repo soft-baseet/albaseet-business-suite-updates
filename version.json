@@ -1,8 +1,8 @@
 {
-    "version":  "25.0.8",
-    "packageUrl":  "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.8/ALBASEET_Update_25.0.8.zip",
-    "sha256":  "C69342F67C1AFC593C65690DEDC5B0D4CF2307DC2BCAB2EAF3D385FAFFA3C132",
-    "mandatory":  false,
-    "dataVersion":  28,
-    "notes":  "Corrected Amazon per-order profit and full-screen reports, with Noon and Mobile Alpha 7."
+  "version": "25.0.9",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.9/ALBASEET_Update_25.0.9.zip",
+  "sha256": "BD3B81195651DC3E937026AF57B6AD7F6B0F658EF6FF3218BE7B22BA43A1DBB9",
+  "mandatory": false,
+  "dataVersion": 29,
+  "notes": "Month input, stable marketplace imports, late movements, order profit and VAT evaluation, differences, statuses, and Excel transfers."
 }
