@@ -1,8 +1,8 @@
 {
-  "version": "25.0.15",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.15/ALBASEET_Update_25.0.15.zip",
-  "sha256": "2E2737300938BCFF62453B7E8868FA8C8CC66F19268031E9FE3F124D163C91DB",
+  "version": "25.0.16",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.16/ALBASEET_Update_25.0.16.zip",
+  "sha256": "34B4FACD9771F826B045E73F28CBD2BF172ACB8AEAAE2D25930395B967ED6B33",
   "mandatory": false,
   "dataVersion": 30,
-  "notes": "احترام اعتماد التكلفة الصفرية من شاشة التدقيق عند حفظ دورة الأرباح، مع حفظ السبب وربط القرار بالسطر نفسه. تستمر مراجعة الصفر غير المعتمد ومنع التكلفة السالبة."
+  "notes": "توحيد حالة إغلاق نون وأمازون مع السجل المعتمد، واستعادة حالة المسودة المتعارضة بعد مطابقة الحركات دون تغيير الربح. تثبيت مصادر الإعلانات ومنع إسقاط مصروف عند إعادة الحساب، مع شاشة مراجعة المصاريف المحفوظة."
 }
