@@ -1,8 +1,8 @@
 {
-  "version": "25.0.18",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.18/ALBASEET_Update_25.0.18.zip",
-  "sha256": "E77CEBBCAD4E13F80B4DFF3406C2577129254EFFA7A2705C8691212FC26B4B95",
+  "version": "25.0.19",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.19/ALBASEET_Update_25.0.19.zip",
+  "sha256": "79BBBDDB3B6DE50C191DCB42A1C7345A05112651C889C2A77D9DCB5178A83033",
   "mandatory": false,
   "dataVersion": 30,
-  "notes": "إصلاح إغلاق البرنامج عند الضغط على رفع حركات نون قبل اختيار الملف. معالجة أخطاء فحص الإغلاق وفتح الملفات في رفع حركات وحالات نون وأمازون، مع الحفاظ على الإغلاقات وتوضيح تعارض مصدرها."
+  "notes": "إصلاح اختفاء أزرار رفع الملفات وحقل الشهر عند ظهور رسالة حالة طويلة في نون وأمازون. فصل أدوات الرفع في صف مستقل، مع التفاف الرسائل ومساحة تمرير محدودة لا تزاحم الأزرار."
 }
