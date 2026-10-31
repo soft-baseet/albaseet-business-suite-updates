@@ -1,8 +1,8 @@
 {
-  "version": "25.0.14",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.14/ALBASEET_Update_25.0.14.zip",
-  "sha256": "5DD9D2B73C9DCC14C9AE95F5059096FC5CE28ACDEBC32B678374DDC1BB95E6A3",
+  "version": "25.0.15",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.15/ALBASEET_Update_25.0.15.zip",
+  "sha256": "2E2737300938BCFF62453B7E8868FA8C8CC66F19268031E9FE3F124D163C91DB",
   "mandatory": false,
   "dataVersion": 30,
-  "notes": "إصلاح موانع الإغلاق في نون وأمازون: غياب حالة الطلب وتعارضها ملاحظات محفوظة، والإعلانات تتبع قرار مصدر المصروف دون افتراض التكرار. فحص مسار الإغلاق وحفظ نتائج الشركة مع بقاء حماية التكلفة والحركات المعتمدة."
+  "notes": "احترام اعتماد التكلفة الصفرية من شاشة التدقيق عند حفظ دورة الأرباح، مع حفظ السبب وربط القرار بالسطر نفسه. تستمر مراجعة الصفر غير المعتمد ومنع التكلفة السالبة."
 }
