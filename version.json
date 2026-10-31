@@ -1,8 +1,8 @@
 {
-  "version": "25.0.13",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.13/ALBASEET_Update_25.0.13.zip",
-  "sha256": "A201498EE0CDEEA226CB6303E0C682E5712F3C0047EDFFDA42E3739995F5EB3A",
+  "version": "25.0.14",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.14/ALBASEET_Update_25.0.14.zip",
+  "sha256": "5DD9D2B73C9DCC14C9AE95F5059096FC5CE28ACDEBC32B678374DDC1BB95E6A3",
   "mandatory": false,
   "dataVersion": 30,
-  "notes": "تصحيح إغلاق سبتمبر في نون وأمازون: حركات أكتوبر لا تعطل الإغلاق، وحجوزات المراجعة غير المعتمدة تعود إلى شهرها المستحق تلقائيًا. الحركات المعتمدة تبقى ثابتة، وأي مانع فعلي يظهر مع رقم الطلب والشهر والسبب."
+  "notes": "إصلاح موانع الإغلاق في نون وأمازون: غياب حالة الطلب وتعارضها ملاحظات محفوظة، والإعلانات تتبع قرار مصدر المصروف دون افتراض التكرار. فحص مسار الإغلاق وحفظ نتائج الشركة مع بقاء حماية التكلفة والحركات المعتمدة."
 }
