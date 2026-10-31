@@ -1,8 +1,8 @@
 {
-  "version": "25.0.16",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.16/ALBASEET_Update_25.0.16.zip",
-  "sha256": "34B4FACD9771F826B045E73F28CBD2BF172ACB8AEAAE2D25930395B967ED6B33",
+  "version": "25.0.17",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.17/ALBASEET_Update_25.0.17.zip",
+  "sha256": "54EE6E10F7E438D4D7A4524C927F0F39C55C1AD2D7327B321EC0B3D217E96368",
   "mandatory": false,
   "dataVersion": 30,
-  "notes": "توحيد حالة إغلاق نون وأمازون مع السجل المعتمد، واستعادة حالة المسودة المتعارضة بعد مطابقة الحركات دون تغيير الربح. تثبيت مصادر الإعلانات ومنع إسقاط مصروف عند إعادة الحساب، مع شاشة مراجعة المصاريف المحفوظة."
+  "notes": "إلغاء أثر المصروف الثابت المحذوف أو الموقوف في الأشهر غير المعتمدة، وحماية ميتا والمصاريف الأخرى من الإلغاء. إصلاح الاستعادة القديمة كي لا تبقى سجلات أحدث خارج النسخة، وتنفيذ الاستعادة في معاملة واحدة تتراجع عند الفشل."
 }
