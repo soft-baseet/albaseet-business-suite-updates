@@ -1,8 +1,8 @@
 {
-  "version": "25.0.10",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.10/ALBASEET_Update_25.0.10.zip",
-  "sha256": "BC5C1F78BE6FD68BEE7BE0672D4B8DEFC871EA79D536F8B1F2DEEB91C9E819D6",
+  "version": "25.0.12",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.12/ALBASEET_Update_25.0.12.zip",
+  "sha256": "0B4A92205CFB7A1B1FA1D25FD08290192916C0EDED973D5EB8780AF517F62E49",
   "mandatory": false,
-  "dataVersion": 29,
-  "notes": "Clear report buttons, review order classification in differences, fee-only evaluation orders, and full marketplace/accounting item names."
+  "dataVersion": 30,
+  "notes": "Unified true marketplace profit, original refund costs, expense review, immutable monthly details, duplicate protection, and double-click calculation details. Update the server first; review old closings explicitly."
 }
