@@ -1,8 +1,8 @@
 {
-  "version": "25.0.12",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.12/ALBASEET_Update_25.0.12.zip",
-  "sha256": "0B4A92205CFB7A1B1FA1D25FD08290192916C0EDED973D5EB8780AF517F62E49",
+  "version": "25.0.13",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.13/ALBASEET_Update_25.0.13.zip",
+  "sha256": "A201498EE0CDEEA226CB6303E0C682E5712F3C0047EDFFDA42E3739995F5EB3A",
   "mandatory": false,
   "dataVersion": 30,
-  "notes": "Unified true marketplace profit, original refund costs, expense review, immutable monthly details, duplicate protection, and double-click calculation details. Update the server first; review old closings explicitly."
+  "notes": "تصحيح إغلاق سبتمبر في نون وأمازون: حركات أكتوبر لا تعطل الإغلاق، وحجوزات المراجعة غير المعتمدة تعود إلى شهرها المستحق تلقائيًا. الحركات المعتمدة تبقى ثابتة، وأي مانع فعلي يظهر مع رقم الطلب والشهر والسبب."
 }
