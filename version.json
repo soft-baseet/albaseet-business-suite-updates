@@ -1,8 +1,8 @@
 {
-  "version": "25.0.17",
-  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.17/ALBASEET_Update_25.0.17.zip",
-  "sha256": "54EE6E10F7E438D4D7A4524C927F0F39C55C1AD2D7327B321EC0B3D217E96368",
+  "version": "25.0.18",
+  "packageUrl": "https://github.com/soft-baseet/albaseet-business-suite-updates/releases/download/v25.0.18/ALBASEET_Update_25.0.18.zip",
+  "sha256": "E77CEBBCAD4E13F80B4DFF3406C2577129254EFFA7A2705C8691212FC26B4B95",
   "mandatory": false,
   "dataVersion": 30,
-  "notes": "إلغاء أثر المصروف الثابت المحذوف أو الموقوف في الأشهر غير المعتمدة، وحماية ميتا والمصاريف الأخرى من الإلغاء. إصلاح الاستعادة القديمة كي لا تبقى سجلات أحدث خارج النسخة، وتنفيذ الاستعادة في معاملة واحدة تتراجع عند الفشل."
+  "notes": "إصلاح إغلاق البرنامج عند الضغط على رفع حركات نون قبل اختيار الملف. معالجة أخطاء فحص الإغلاق وفتح الملفات في رفع حركات وحالات نون وأمازون، مع الحفاظ على الإغلاقات وتوضيح تعارض مصدرها."
 }
